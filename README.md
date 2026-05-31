@@ -5,7 +5,7 @@ Software Engineer with 2+ years of enterprise experience at EY GDS, recently com
 I’m focused on building production-ready backend, full-stack, and GenAI-enabled applications using Java, Spring Boot, Python, React, PostgreSQL, Docker, and cloud technologies.
 
 ## Tech Stack
-Java | Spring Boot | Python | FastAPI | React | PostgreSQL | MySQL | Docker | GitHub Actions | REST APIs | OpenAI APIs | LangChain
+Java | Spring Boot | Python | FastAPI | React | PostgreSQL | MySQL | Docker | Kafka | GitHub Actions | REST APIs | OpenAI APIs | LangChain
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/tridishagogoi/
